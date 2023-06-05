@@ -3,7 +3,7 @@
 ## Description A study guide to introduce coding
 
 - to help prepare for coding bootcamp
-- it provides a refernce for new bootcamp students.
+- it provides a reference for new bootcamp students.
 -  i learned how to create a remote repository and link it to my local computer.
 how  to create different files IE html,javascript,readme,css
 learned several git commands Ie git checkout, git status, git pull/push cd, and many more.
